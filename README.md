@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm Akeem - aka [codegrasshopper][] 👋 
 
-<!--
-**AKDixon989/AKDixon989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm a Student,Son,future programmer, and future Teacher!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to learn more about the world of programming
+- 🥅 2022 Goals: Learn more about about everything
+- ⚡ Fun fact: I love to learn about aircraft and many things Japan
+
+### Connect with me:
+
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/Raiden989)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Raiden989)
+&nbsp;&nbsp;
+
+
+
+### Languages and Tools:
+
+coming soon...
+<br />
+<br />
+
+---
+
+
+</details>
+
+
+
+[twitter]: https://twitter.com/Raiden989
+[youtube]: https://youtube.com/MobiusZero
